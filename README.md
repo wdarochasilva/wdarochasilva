@@ -2,7 +2,7 @@
 
 Meu nome é Willyam Rocha
 
-- Eu estou estudando na [Alura](https://www.alura.com.br)
+- Eu estou estudando na Fatec - Carapícuiba
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e desenvolvimento dos meus projetos
 
