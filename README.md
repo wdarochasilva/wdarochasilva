@@ -3,7 +3,7 @@
 Meu nome é Willyam Rocha
 
 - Eu estou estudando na Fatec - Carapícuiba
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript, Python, Java, HTML, Styles CSS, C e Lua
 - Utilizo esse espaço para organização e desenvolvimento dos meus projetos
 
   ### Você entrar em contato comigo 📫
